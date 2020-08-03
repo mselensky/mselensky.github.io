@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>announcements | Matt Selensky</title>
+    <link>/mselensky.github.io/category/announcements/</link>
+      <atom:link href="/mselensky.github.io/category/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <description>announcements</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Matt Selensky (2020)</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/mselensky.github.io/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
+      <title>announcements</title>
+      <link>/mselensky.github.io/category/announcements/</link>
+    </image>
+    
+    <item>
+      <title>My New Blog!</title>
+      <link>/mselensky.github.io/post/new-blog/my-new-blog/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/mselensky.github.io/post/new-blog/my-new-blog/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m excited to announce my new blog! I hope to regularly update this site with my thoughts on my research, geomicrobiology in general, caves, and data science.&lt;/p&gt;
+&lt;p&gt;Stay tuned! :]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/mselensky.github.io/post/new-blog/nasa_boi.jpg&#34; alt=&#34;nasa_boi&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
