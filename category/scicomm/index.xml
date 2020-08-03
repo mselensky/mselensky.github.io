@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scicomm | Matt Selensky</title>
-    <link>/mselensky.github.io/category/scicomm/</link>
-      <atom:link href="/mselensky.github.io/category/scicomm/index.xml" rel="self" type="application/rss+xml" />
+    <link>/category/scicomm/</link>
+      <atom:link href="/category/scicomm/index.xml" rel="self" type="application/rss+xml" />
     <description>scicomm</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Matt Selensky (2020)</copyright><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mselensky.github.io/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
       <title>scicomm</title>
-      <link>/mselensky.github.io/category/scicomm/</link>
+      <link>/category/scicomm/</link>
     </image>
     
     <item>
       <title>Guns, Germs, and Guano</title>
-      <link>/mselensky.github.io/post/guano/guns-germs-and-guano/</link>
+      <link>/post/guano/guns-germs-and-guano/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/mselensky.github.io/post/guano/guns-germs-and-guano/</guid>
+      <guid>/post/guano/guns-germs-and-guano/</guid>
       <description>&lt;p&gt;What do caves, microbes, and bat poop have in common? &lt;em&gt;Guns&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I promise this isn&amp;rsquo;t the setup to a bad &amp;ldquo;So a microbe walks into a cave&amp;hellip;&amp;rdquo; joke.&lt;/p&gt;
 &lt;p&gt;Not only is 

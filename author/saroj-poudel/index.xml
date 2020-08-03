@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saroj Poudel | Matt Selensky</title>
-    <link>/mselensky.github.io/author/saroj-poudel/</link>
-      <atom:link href="/mselensky.github.io/author/saroj-poudel/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/saroj-poudel/</link>
+      <atom:link href="/author/saroj-poudel/index.xml" rel="self" type="application/rss+xml" />
     <description>Saroj Poudel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Matt Selensky (2020)</copyright><lastBuildDate>Fri, 13 Oct 2017 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mselensky.github.io/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
       <title>Saroj Poudel</title>
-      <link>/mselensky.github.io/author/saroj-poudel/</link>
+      <link>/author/saroj-poudel/</link>
     </image>
     
     <item>
       <title>Geobiological Feedbacks and the Evolution of Thermoacidophiles</title>
-      <link>/mselensky.github.io/publication/ismej-2018/</link>
+      <link>/publication/ismej-2018/</link>
       <pubDate>Fri, 13 Oct 2017 10:00:00 +0000</pubDate>
-      <guid>/mselensky.github.io/publication/ismej-2018/</guid>
+      <guid>/publication/ismej-2018/</guid>
       <description></description>
     </item>
     
