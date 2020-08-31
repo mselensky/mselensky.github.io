@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>igraph | Matt Selensky</title>
+    <link>/tag/igraph/</link>
+      <atom:link href="/tag/igraph/index.xml" rel="self" type="application/rss+xml" />
+    <description>igraph</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Matt Selensky (2020)</copyright><lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
+      <title>igraph</title>
+      <link>/tag/igraph/</link>
+    </image>
+    
+    <item>
+      <title>Correlation Networks in R</title>
+      <link>/post/correlation-networks/correlation-networks-in-r/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/correlation-networks/correlation-networks-in-r/</guid>
+      <description>
+
+
+&lt;p&gt;Correlation networks are powerful visual tools we can use to understand how components of complex data are associated with each other.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
