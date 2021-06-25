@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plotly | Matt Selensky</title>
-    <link>/tag/plotly/</link>
-      <atom:link href="/tag/plotly/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.mselensky.github.io/tag/plotly/</link>
+      <atom:link href="https://www.mselensky.github.io/tag/plotly/index.xml" rel="self" type="application/rss+xml" />
     <description>plotly</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Matt Selensky (2020)</copyright><lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Matt Selensky (2021)</copyright><lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.mselensky.github.io/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
       <title>plotly</title>
-      <link>/tag/plotly/</link>
+      <link>https://www.mselensky.github.io/tag/plotly/</link>
     </image>
     
     <item>
       <title>How to Make Custom-Colored Dendrogram Ends in R</title>
-      <link>/post/dendro-color/how-to-make-custom-colored-dendrogram-ends-in-r/</link>
+      <link>https://www.mselensky.github.io/post/dendro-color/how-to-make-custom-colored-dendrogram-ends-in-r/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/dendro-color/how-to-make-custom-colored-dendrogram-ends-in-r/</guid>
+      <guid>https://www.mselensky.github.io/post/dendro-color/how-to-make-custom-colored-dendrogram-ends-in-r/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.mselensky.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.mselensky.github.io/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.mselensky.github.io/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.mselensky.github.io/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://www.mselensky.github.io/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://www.mselensky.github.io/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://www.mselensky.github.io/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://www.mselensky.github.io/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;&lt;img src=&#34;/post/dendro-color/colored_dendrogram.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.mselensky.github.io/post/dendro-color/colored_dendrogram.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Today I describe how to color the terminal ends of a dendrogram based on some metadata variable you want to define. If you would just like to see the code, click &lt;a href=&#34;https://github.com/mselensky/mselensky.github.io/blob/master/post/dendro-color/dendro_color_tutorial.R&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Most of the projects I work on involve some sort of clustering analysis. For one of them, I wanted to color the ends of a dendrogram by some variable from my metadata, to visualize whether that variable followed the clustering. There exist excellent packages in R like &lt;a href=&#34;https://cran.r-project.org/web/packages/ggdendro/index.html&#34;&gt;ggdendro&lt;/a&gt; that allow you to either plot colored bars under dendrograms to represent how groups cluster or color the terminal segments by the cluster itself.&lt;/p&gt;
 &lt;p&gt;That said, I still haven’t found an easy way to change the color of the terminal ends of the dendrogram itself based on user-defined metadata, which I personally think can be more aesthetically pleasing in some situations. This tutorial describes how I did it and provides reproducible &lt;a href=&#34;https://github.com/mselensky/mselensky.github.io/blob/master/post/dendro-color/dendro_color_tutorial.R&#34;&gt;code&lt;/a&gt; if you are hoping to do the same thing!&lt;/p&gt;
@@ -91,7 +91,7 @@ dendrogram &amp;lt;- as.dendrogram(hclust(dist_matrix, method = &amp;quot;comple
 &lt;h3&gt;Step 4: Extract Dendrogram Segment Data Using ggdendro&lt;/h3&gt;
 &lt;p&gt;Now let’s quickly take a look at what our dendrogram looks like using base R:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;plot(dendrogram)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/dendro-color/2020-07-29-how-to-make-custom-colored-dendrogram-ends-in-r_files/figure-html/baseR-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.mselensky.github.io/post/dendro-color/2020-07-29-how-to-make-custom-colored-dendrogram-ends-in-r_files/figure-html/baseR-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Okay, it’s not very pretty, but bear with me. This is a useful visual to show how we will extract the coordinate data from the dendrogram object with &lt;code&gt;ggdendro::dendro_data()&lt;/code&gt; to make a better figure. Every dendrogram is plotted by adding individual segments between points on an x and y grid.&lt;/p&gt;
 &lt;p&gt;When we apply &lt;code&gt;ggdendro::dendro_data()&lt;/code&gt; and look at the extracted segment data, we see there are four vectors for every dendrogram: &lt;code&gt;x&lt;/code&gt;, &lt;code&gt;y&lt;/code&gt;, &lt;code&gt;xend&lt;/code&gt;, and &lt;code&gt;yend&lt;/code&gt;. Every horizontal or vertical line you see in the base R figure is ultimately constructed from one row of the following dataframe:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# extract dendrogram segment data
@@ -159,7 +159,7 @@ species_color &amp;lt;- c(&amp;quot;setosa&amp;quot; = &amp;quot;#E41A1C&amp;quo
   ggtitle(&amp;quot;Iris dendrogram&amp;quot;)
   
 p&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/dendro-color/2020-07-29-how-to-make-custom-colored-dendrogram-ends-in-r_files/figure-html/step6-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto auto auto 0;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.mselensky.github.io/post/dendro-color/2020-07-29-how-to-make-custom-colored-dendrogram-ends-in-r_files/figure-html/step6-1.png&#34; width=&#34;672&#34; style=&#34;display: block; margin: auto auto auto 0;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;If you want to get really fancy, you can wrap your ggplot with &lt;a href=&#34;https://plotly.com/r/&#34;&gt;plotly&lt;/a&gt; to make your dendrogram interactive! Be sure to specify &lt;code&gt;tooltip = &amp;quot;text&amp;quot;&lt;/code&gt; to control which information is displayed.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplotly(p, tooltip = &amp;quot;text&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;

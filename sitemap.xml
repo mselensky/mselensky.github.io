@@ -3,237 +3,277 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://www.mselensky.github.io/publication-type/2/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/annette-harnish/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/authors/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/daniel-colman/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/eric-boyd/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/evan-bilbrey/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/everett-shock/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/kristopher-fecteau/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/matt-selensky/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/matthew-stott/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/maximiliano-amenabar/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/melody-lindsay/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/publication_types/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/publication/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/author/randall-debes-ii/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/publication/environmicrobiol-2021/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/tag/source-themes/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/tags/</loc>
+    <lastmod>2021-06-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mselensky.github.io/post/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.mselensky.github.io/categories/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/dataviz/</loc>
+    <loc>https://www.mselensky.github.io/tag/dataviz/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/dataviz/</loc>
+    <loc>https://www.mselensky.github.io/category/dataviz/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/geospatial/</loc>
+    <loc>https://www.mselensky.github.io/tag/geospatial/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/geospatial/</loc>
+    <loc>https://www.mselensky.github.io/category/geospatial/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/karst/</loc>
+    <loc>https://www.mselensky.github.io/tag/karst/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/leaflet/</loc>
+    <loc>https://www.mselensky.github.io/tag/leaflet/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/leaflet/</loc>
+    <loc>https://www.mselensky.github.io/category/leaflet/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/map/</loc>
+    <loc>https://www.mselensky.github.io/tag/map/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/karst-map/mapping-karst-around-the-world/</loc>
+    <loc>https://www.mselensky.github.io/post/karst-map/mapping-karst-around-the-world/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.mselensky.github.io/tag/r/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/r/</loc>
+    <loc>https://www.mselensky.github.io/category/r/</loc>
     <lastmod>2020-09-22T12:01:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/r/</loc>
-    <lastmod>2020-09-22T12:01:20-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-09-22T12:01:20-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/dendrogram/</loc>
+    <loc>https://www.mselensky.github.io/tag/dendrogram/</loc>
     <lastmod>2020-07-29T19:15:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/ggplot2/</loc>
+    <loc>https://www.mselensky.github.io/tag/ggplot2/</loc>
     <lastmod>2020-07-29T19:15:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/ggplot2/</loc>
+    <loc>https://www.mselensky.github.io/category/ggplot2/</loc>
     <lastmod>2020-07-29T19:15:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/dendro-color/how-to-make-custom-colored-dendrogram-ends-in-r/</loc>
+    <loc>https://www.mselensky.github.io/post/dendro-color/how-to-make-custom-colored-dendrogram-ends-in-r/</loc>
     <lastmod>2020-07-29T19:15:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/plotly/</loc>
+    <loc>https://www.mselensky.github.io/tag/plotly/</loc>
     <lastmod>2020-07-29T19:15:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/caves/</loc>
+    <loc>https://www.mselensky.github.io/tag/caves/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/caves/</loc>
+    <loc>https://www.mselensky.github.io/category/caves/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/geomicrobiology/</loc>
+    <loc>https://www.mselensky.github.io/tag/geomicrobiology/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/geomicrobiology/</loc>
+    <loc>https://www.mselensky.github.io/category/geomicrobiology/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/germs/</loc>
+    <loc>https://www.mselensky.github.io/tag/germs/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/guano/</loc>
+    <loc>https://www.mselensky.github.io/tag/guano/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/guns/</loc>
+    <loc>https://www.mselensky.github.io/tag/guns/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/guano/guns-germs-and-guano/</loc>
+    <loc>https://www.mselensky.github.io/post/guano/guns-germs-and-guano/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/nitrate/</loc>
+    <loc>https://www.mselensky.github.io/tag/nitrate/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/scicomm/</loc>
+    <loc>https://www.mselensky.github.io/tag/scicomm/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/scicomm/</loc>
+    <loc>https://www.mselensky.github.io/category/scicomm/</loc>
     <lastmod>2020-06-06T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/announcements/</loc>
+    <loc>https://www.mselensky.github.io/tag/announcements/</loc>
     <lastmod>2020-05-29T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/announcements/</loc>
+    <loc>https://www.mselensky.github.io/category/announcements/</loc>
     <lastmod>2020-05-29T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/new-blog/my-new-blog/</loc>
+    <loc>https://www.mselensky.github.io/post/new-blog/my-new-blog/</loc>
     <lastmod>2020-05-29T10:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>https://www.mselensky.github.io/publication/ismej-2018/</loc>
     <lastmod>2017-10-13T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://www.mselensky.github.io/author/jeff-havig/</loc>
     <lastmod>2017-10-13T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/daniel-colman/</loc>
+    <loc>https://www.mselensky.github.io/author/saroj-poudel/</loc>
     <lastmod>2017-10-13T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/eric-boyd/</loc>
-    <lastmod>2017-10-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/everett-shock/</loc>
-    <lastmod>2017-10-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ismej-2018/</loc>
-    <lastmod>2017-10-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jeff-havig/</loc>
-    <lastmod>2017-10-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/matt-selensky/</loc>
-    <lastmod>2017-10-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2017-10-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2017-10-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/saroj-poudel/</loc>
-    <lastmod>2017-10-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2017-10-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/trinity-hamilton/</loc>
+    <loc>https://www.mselensky.github.io/author/trinity-hamilton/</loc>
     <lastmod>2017-10-13T10:00:00+00:00</lastmod>
   </url>
   

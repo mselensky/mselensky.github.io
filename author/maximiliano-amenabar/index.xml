@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximiliano Amenabar | Matt Selensky</title>
+    <link>https://www.mselensky.github.io/author/maximiliano-amenabar/</link>
+      <atom:link href="https://www.mselensky.github.io/author/maximiliano-amenabar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maximiliano Amenabar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Matt Selensky (2021)</copyright><lastBuildDate>Thu, 10 Jun 2021 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.mselensky.github.io/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
+      <title>Maximiliano Amenabar</title>
+      <link>https://www.mselensky.github.io/author/maximiliano-amenabar/</link>
+    </image>
+    
+    <item>
+      <title>Seasonal hydrologic and geologic forcing drive hot spring geochemistry and microbial biodiversity</title>
+      <link>https://www.mselensky.github.io/publication/environmicrobiol-2021/</link>
+      <pubDate>Thu, 10 Jun 2021 10:00:00 +0000</pubDate>
+      <guid>https://www.mselensky.github.io/publication/environmicrobiol-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

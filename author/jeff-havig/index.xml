@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeff Havig | Matt Selensky</title>
-    <link>/author/jeff-havig/</link>
-      <atom:link href="/author/jeff-havig/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.mselensky.github.io/author/jeff-havig/</link>
+      <atom:link href="https://www.mselensky.github.io/author/jeff-havig/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeff Havig</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Matt Selensky (2020)</copyright><lastBuildDate>Fri, 13 Oct 2017 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Matt Selensky (2021)</copyright><lastBuildDate>Fri, 13 Oct 2017 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.mselensky.github.io/images/icon_hudeef39580e9781d56cfc5ce84a85d468_35303_512x512_fill_lanczos_center_2.png</url>
       <title>Jeff Havig</title>
-      <link>/author/jeff-havig/</link>
+      <link>https://www.mselensky.github.io/author/jeff-havig/</link>
     </image>
     
     <item>
-      <title>Geobiological Feedbacks and the Evolution of Thermoacidophiles</title>
-      <link>/publication/ismej-2018/</link>
+      <title>Geobiological feedbacks and the evolution of thermoacidophiles</title>
+      <link>https://www.mselensky.github.io/publication/ismej-2018/</link>
       <pubDate>Fri, 13 Oct 2017 10:00:00 +0000</pubDate>
-      <guid>/publication/ismej-2018/</guid>
+      <guid>https://www.mselensky.github.io/publication/ismej-2018/</guid>
       <description></description>
     </item>
     
