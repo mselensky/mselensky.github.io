@@ -4,7 +4,7 @@
 
 {% if page.excerpt %}
 <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-{% else if page.description %}
+{% elsif page.description %}
 <meta property="og:description" content="{{ page.description }}" />
 {% else %}
 <meta property="og:description" content="{{ site.description }}" />
