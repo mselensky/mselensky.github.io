@@ -9,7 +9,8 @@ name: Matt Selensky, PhD
 author: mjs
 
 # Short bio or description (displayed in the header)
-description:
+description: Software and science
+#description: _____________________________
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/avatar.jpg
@@ -45,6 +46,7 @@ google_analytics: UA-168877399-1
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 google_analytics_ga4: 361292945
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
