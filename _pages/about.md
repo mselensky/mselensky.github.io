@@ -6,16 +6,20 @@ permalink: /about/
 
 :nerd_face:
 
-Hi there, I'm Matt! I am a high-performance computing (HPC) professional. I am currently a [Computational Specialist](https://www.it.northwestern.edu/departments/it-services-support/research/staff/selensky.html) at Northwestern University. There, I consult with high-impact researchers from a diverse range of domains to efficiently scale their scientific code on a 1,000+ node Linux cluster. I pride myself on facilitating the access to advanced computing technologies for researchers from a broad range of experience with HPC. Before I became a full-time HPC Specialist, I also recevied a PhD from Northwestern, specializing in geomicrobiology.
+Hi there, I'm Matt - I love science, computers, and people! 
+
+I am a high-performance computing (HPC) professional currently working at [Northwestern University](https://www.it.northwestern.edu/departments/it-services-support/research/). As a [Computational Specialist](https://www.it.northwestern.edu/departments/it-services-support/research/staff/selensky.html), I consult with high-impact researchers to efficiently scale their scientific code on a 1,000+ node Linux cluster. I pride myself on facilitating access to advanced computing technologies, regardless of someone's experience with HPC or their desired application. Before I became a full-time HPC support specialist, I also recevied a PhD from Northwestern, specializing in geomicrobiology.
 
 My PhD research focused on understanding the microbial ecology of cave ecosystems. Specifically, I was interested in the cycling of carbon and nitrogen between and among different types of communities in lava tubes and limestone caves. I employed a combination of laboratory and computational tools to pursue this, while also being very fortunate to work in beautifully surreal ecosystems. My research record spans topics concerning topics like the flow of carbon to microbes in [Mars-analog lava tubes](https://eos.org/research-spotlights/earthly-lava-tubes-may-offer-insights-into-extraterrestrial-life), modeling the structure of microbial communities in caves and cenotes representing the [eastern Yucatán carbonate aquifer](https://news.northwestern.edu/stories/2023/11/yucatans-underwater-caves-host-diverse-microbial-communities/), and recovering microbial genomes from biofilms and sediments within Mammoth Cave, KY. 
+
+If you'd ever like to chat, please don't hesitate to [get in touch](mailto:m.selensky@protonmail.com)!
 
 # Education
 
 :open_book: 
 
 - 2023: PhD, Earth and Planetary Sciences (Northwestern University)
-  - [Dissertation](https://arch.library.northwestern.edu/concern/generic_works/5t34sk11p): *Querying Microbial Community Structure and Function in the Shallow Subsurface: Observations from Three North American Cave Systems*
+  - [Dissertation:](https://arch.library.northwestern.edu/concern/generic_works/5t34sk11p) *Querying Microbial Community Structure and Function in the Shallow Subsurface: Observations from Three North American Cave Systems*
 - 2020: MS, Earth and Planetary Sciences (Northwestern University)
 - 2018: BS, Environmental Health Microbiology (Montana State University)
 
